@@ -172,6 +172,18 @@ img[alt="lowpoly"] {
     margin-right: 25px;
 }
 
+.video {
+    margin: 20px;
+}
+
+img[alt="nmixicon"] {
+    border-radius: 50%;
+    width: 300px;
+    float: left;
+    margin: 25px;
+    margin-top: -1px;
+}
+
 img[alt="homescreenicon"] {
     border-radius: 50%;
     width: 300px;
